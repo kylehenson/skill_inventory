@@ -1,0 +1,12 @@
+---
+skills:
+- id: 2
+  title: baking
+  description: brownies and stuff
+- id: 3
+  title: cleaning
+  description: everywhere!!!
+- id: 4
+  title: mihir
+  description: kyle is cool
+total: 4
